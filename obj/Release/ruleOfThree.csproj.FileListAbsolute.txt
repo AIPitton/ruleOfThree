@@ -1,0 +1,10 @@
+C:\Users\b\Desktop\ruleOfThree\bin\Release\ruleOfThree.exe.config
+C:\Users\b\Desktop\ruleOfThree\bin\Release\ruleOfThree.exe
+C:\Users\b\Desktop\ruleOfThree\bin\Release\ruleOfThree.pdb
+C:\Users\b\Desktop\ruleOfThree\obj\Release\ruleOfThree.csprojAssemblyReference.cache
+C:\Users\b\Desktop\ruleOfThree\obj\Release\ruleOfThree.Form1.resources
+C:\Users\b\Desktop\ruleOfThree\obj\Release\ruleOfThree.Properties.Resources.resources
+C:\Users\b\Desktop\ruleOfThree\obj\Release\ruleOfThree.csproj.GenerateResource.cache
+C:\Users\b\Desktop\ruleOfThree\obj\Release\ruleOfThree.csproj.CoreCompileInputs.cache
+C:\Users\b\Desktop\ruleOfThree\obj\Release\ruleOfThree.exe
+C:\Users\b\Desktop\ruleOfThree\obj\Release\ruleOfThree.pdb
